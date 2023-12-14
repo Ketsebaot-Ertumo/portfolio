@@ -1,0 +1,56 @@
+#myp{margin-bottom: 40px;
+    padding-top: 20px;
+    font-size: 15px;}
+.inl{ display: inline;
+    margin: 20px 20px 20px 50%;
+    font-size: 18px;}
+.inl .a{margin: 10px 10px;
+    color: rgb(17, 17, 17);
+    text-decoration: none;} 
+.bl{
+    /* margin-left: 30%; */
+    padding-left: 20%;
+    /* margin-top: 30px; */
+    padding-top: 30px;
+    height: 40px
+}
+a:hover{color: #08081a;} 
+.inl a:hover{color: #08081a;} 
+.aa{font-size: 18px;}
+.aa, .a3{color: rgb(245, 240, 240);
+    padding-left: 15px;}
+.a3{font-size: 18px;
+    text-decoration: none;}
+body{background: rgb(22, 22, 22);}
+/* .bg{background: rgb(217, 188, 245);} */
+.pp{width: 150px;
+    height: 160px;
+    margin-left: 45%;
+    border-radius: 50% ;
+    box-shadow: 3px 4px 0px rgb(77, 76, 76);
+    margin-top: 80px;}
+.pp:hover{scale: 2;}
+.me{text-align: center;}
+.dp{text-shadow: 0 3px 0;}
+.foo{display: grid;
+    grid-template-columns: 65% 35%;
+    justify-self: center;
+    padding-top: 150px;}
+/* .fl{width: 150px;
+   height: 200px;
+    float: left;} */
+body {background: rgb(203, 203, 240);}
+.back {text-decoration: none;
+    background-color: rgba(12, 11, 240, 0.932);
+    margin-left: 90%;
+    margin-top: 40px;}
+.back a{ text-decoration: none;}
+.about, .p1{width: 80%;
+    padding-left: 10%;
+    padding-top: 20px;}
+body .h11{padding-top: 20px;}
+.port{text-align: center;}
+.bl {
+    background-color: rgb(105, 105, 248);
+}
+
